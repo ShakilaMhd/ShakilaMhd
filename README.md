@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm shakila mohammadi</h1>
-<h3 align="center">A passionate frontend developer from Iran</h3>
+<h3 align="center">A frontend developer from Iran</h3>
 
 - 🔭 I’m currently working on [Task manager](https://github.com/ShakilaMhd/task-manager)
 
